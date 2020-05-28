@@ -2,9 +2,9 @@
   "name": "herbert-chessboard",
   "version": "0.0.1",
   "description": "Herbert chessboard component for vue",
-  "main": "dist/HerbertChessoard.umd.js",
-  "module": "dist/HerbertChessoard.esm.js",
-  "unpkg": "dist/HerbertChessoard.min.js",
+  "main": "dist/HerbertChessboard.umd.js",
+  "module": "dist/HerbertChessboard.esm.js",
+  "unpkg": "dist/HerbertChessboard.min.js",
   "browser": {
     "./sfc": "src/HerbertChessboard.vue"
   },
