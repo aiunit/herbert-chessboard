@@ -1,6 +1,6 @@
 {
   "name": "herbert-chessboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Herbert chessboard component for vue",
   "main": "dist/HerbertChessboard.umd.js",
   "module": "dist/HerbertChessboard.esm.js",
